@@ -32,3 +32,4 @@
  #endif 
 
 #define LORA_DIO2 32 // Not really used
+
