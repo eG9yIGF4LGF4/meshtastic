@@ -26,6 +26,7 @@
 #define LORA_DIO1 33 // https://www.thethingsnetwork.org/forum/t/big-esp32-sx127x-topic-part-3/18436
 #endif
 
+#define PIN_BUTTON1 12
  #ifdef PIN_BUTTON1 
  #define BUTTON_PIN PIN_BUTTON1 
  #endif 
